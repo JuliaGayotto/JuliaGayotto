@@ -3,7 +3,7 @@
 <div>
    <p>A Brazilian technology enthusiast and full-stack software developer student who loves creating new projects and learn new things. I started programming in early 2022, when I entered college, and at the moment I'm learning React, UX Design, Java and working on personal projects that you can check out in my repositories. &#128521; &#10024; </p>
 </div>
-
+<br>
 <div align="center">
     <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Juliagayotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliagayotto&layout=compact&langs_count=7&theme=dracula"/>
