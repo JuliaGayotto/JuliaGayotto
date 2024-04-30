@@ -1,7 +1,7 @@
 <h1>Hi, I'm Júlia 👋</h1>
 
 <div>
-   <p>A Brazilian technology enthusiast and full-stack software developer student who loves creating new projects and learn new things. I started programming in early 2022, when I entered college, and at the moment I'm working on a technological initiation on natural language processing and doing personal projects that you can check out in my repositories. &#128521; &#10024; </p>
+   <p>A Brazilian technology enthusiast and full-stack software developer student who loves creating new projects and learn new things. I started programming in early 2022, when I entered college, and at the moment I'm working on a scientific initiation at INPE on natural language processing and doing personal projects that you can check out in my repositories. &#128521; &#10024; </p>
 </div>
 <br>
 <div align="center">
