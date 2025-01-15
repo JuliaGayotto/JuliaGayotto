@@ -3,7 +3,10 @@
 <div>
    <p>A Brazilian technology enthusiast and full-stack software developer who loves creating new projects and learn new things. At the moment,  I'm currently working on a scientific initiation at INPE on natural language processing and doing personal projects that you can check out in my repositories. &#128521; &#10024; </p>
    <br/>
-   <p>I have a published abstract that you can check it out <a target="_blank" href=https://www.even3.com.br/anais/2-science-business-connection-407088/811886-arquitetura-basica-de-pln-para-desenvolvimento-de-sistema-de-auxilio-ao-usuario/""> here </a>! &#10084;&#65039;&#65039; &#128512; </p>
+   <p>I have two published abstracts that you can check it out! &#10084;&#65039;&#65039; &#128512; </p>
+   - <a target="_blank" href="https://www.even3.com.br/anais/2-science-business-connection-407088/811886-arquitetura-basica-de-pln-para-desenvolvimento-de-sistema-de-auxilio-ao-usuario/"> Arquitetura Básica de PLN para Desenvolvimento de Sistema de Auxílio ao Usuário </a>
+   <br>
+   - <a target="_blank" href="http://mtc-m21d.sid.inpe.br/col/sid.inpe.br/mtc-m21d/2024/08.19.16.41/doc/Livro_Resumos_SICINPE_2024.pdf?metadatarepository=sid.inpe.br/mtc-m21d/2024/08.19.16.41.18&mirror=urlib.net/www/2021/06.04.03.40.25">Desenvolvimento de Interface de Usuário para Sistemas do Programa Queimadas Utilizando Processamento de Linguagem Natural e Inteligência Artificial </a>
 </div>
 <br/>
 <div align="center">
